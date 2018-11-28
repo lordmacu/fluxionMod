@@ -12,7 +12,7 @@
 }
 
 #tbs-header-content {
-    background-color: #00a9e0;
+    background-color: white;
     color: #fff;
     height: inherit;
     left:0;
@@ -28,6 +28,11 @@
     z-index: 1;
 }
 
+#tbs-header-content #logo{
+width: 160px;
+
+
+}
 body.scrolled #tbs-header-content {
     height: 4px;
 }
